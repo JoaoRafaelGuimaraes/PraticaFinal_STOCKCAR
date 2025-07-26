@@ -1,6 +1,7 @@
 # Stock Car em FPG FPGA 
 
-Arquitetura de Alto desempenho 
+Projeto Final do Curso Arquitetura de Alto desempenho 
+Departamento de Computação - UFSCar
 Professor Dr. Emerson Carlos Pedrino
 
 ## Grupo
