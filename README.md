@@ -1,4 +1,7 @@
-# Stock Car FPGA Game
+# Stock Car em FPG FPGA 
+
+Arquitetura de Alto desempenho 
+Professor Dr. Emerson Carlos Pedrino
 
 ## Grupo
 
